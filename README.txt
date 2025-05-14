@@ -14,6 +14,7 @@ Bu proje, kullanıcıların günlük görevlerini ekleyip takip etmelerini sağl
 
 * Geliştirici : Eren Söğütlü 
 
+LİNK : https://erensogutlu-to-do-list-v1.netlify.app/
 -----------------------------------------------------------------------------------------------------------------
 
 /* To-Do-list-V1 */
@@ -31,3 +32,5 @@ This project is a simple but functional To-Do List application that allows users
 + JavaScript
 
 * Developer : Eren Söğütlü
+
+LINK : https://erensogutlu-to-do-list-v1.netlify.app/
